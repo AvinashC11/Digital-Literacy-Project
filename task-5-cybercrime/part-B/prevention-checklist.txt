@@ -1,0 +1,158 @@
+================================================================================
+                       STAY SAFE ONLINE — PREVENTION CHECKLIST
+                    Cybercrime Awareness Guide for College Students
+--------------------------------------------------------------------------------
+  Name        : Avinash.C
+  Reg. No.    : 25BCY10032
+  Branch      : B.Tech Computer Science and Engineering 
+  Year        : First Year (2025 – 2029)
+  Course      : CSE0001 — Digital Literacy
+  Task        : Task 5 — Part B (Prevention Checklist)
+  Institution : VIT Bhopal University
+================================================================================
+
+PURPOSE:
+This checklist provides specific, actionable steps for college students in
+India to protect themselves from cybercrime — including phishing, UPI fraud,
+identity theft, cyberbullying, and ransomware.
+
+================================================================================
+              🔐  STAY SAFE ONLINE — PREVENTION CHECKLIST
+================================================================================
+
+--------------------------------------------------------------------------------
+ SECTION 1 — ACCOUNT & PASSWORD SECURITY
+--------------------------------------------------------------------------------
+
+ ☐  TIP 1 — Use Strong, Unique Passwords for Every Account
+    Never use the same password across multiple platforms. Create passwords
+    that are at least 12 characters long and include a mix of uppercase
+    letters, lowercase letters, numbers, and special characters (e.g.
+    R@hul#2024Vit!). Use a trusted password manager such as Bitwarden or
+    Google Password Manager to store them securely.
+
+ ☐  TIP 2 — Enable Two-Factor Authentication (2FA) on All Accounts
+    Always activate 2FA on your email, social media, and academic portals.
+    This adds a second layer of security — even if someone obtains your
+    password, they cannot access your account without the second verification
+    step (OTP or authentication app). Go to Settings → Security → Two-Factor
+    Authentication on each platform to enable it.
+
+--------------------------------------------------------------------------------
+ SECTION 2 — 💳 FINANCIAL & UPI SAFETY  [MANDATORY — UPI SPECIFIC]
+--------------------------------------------------------------------------------
+
+ ☐  TIP 3 — Never Share Your UPI PIN, OTP, or Bank Details with Anyone
+    ⚠️  UPI SAFETY — CRITICAL
+    Your UPI PIN is equivalent to your ATM PIN — it must never be shared
+    with anyone, including people claiming to be bank officials, customer
+    support agents, or friends. Legitimate banks and UPI apps (GPay, PhonePe,
+    Paytm) will NEVER ask for your PIN or OTP over a call, message, or email.
+    If someone asks for it, it is a scam. Hang up immediately.
+
+ ☐  TIP 4 — Always Verify Before Accepting or Sending UPI Payments
+    ⚠️  UPI SAFETY — CRITICAL
+    Be aware that scammers send COLLECT REQUESTS — which require YOU to enter
+    your PIN to receive money. This is a common fraud: you enter your PIN
+    thinking you are receiving money, but you are actually sending it. Rule:
+    You NEVER need to enter your UPI PIN to receive money. If a collect
+    request appears unexpectedly, decline it immediately and block the sender.
+    Always double-check the recipient's name and UPI ID before confirming any
+    payment.
+
+--------------------------------------------------------------------------------
+ SECTION 3 — PHISHING & ONLINE FRAUD AWARENESS
+--------------------------------------------------------------------------------
+
+ ☐  TIP 5 — Do Not Click on Suspicious Links in Emails, SMS, or DMs
+    Phishing is one of the most common cybercrimes targeting students.
+    Attackers send fake links disguised as college portals, scholarship forms,
+    job offers, or prize notifications. Always verify the sender's email
+    address carefully (e.g. vitbhopal.ac.in vs vitbhopa1.ac.in — note the
+    number "1" replacing the letter "l"). When in doubt, go directly to the
+    official website by typing the URL in your browser rather than clicking
+    any link.
+
+ ☐  TIP 6 — Verify the Authenticity of Websites Before Entering Any Data
+    Before entering your login credentials, personal details, or payment
+    information on any website, check that the URL begins with "https://"
+    and that there is a padlock icon in the browser address bar. Avoid
+    entering sensitive information on websites that display security warnings
+    or have suspicious domain names.
+
+--------------------------------------------------------------------------------
+ SECTION 4 — DEVICE & NETWORK SAFETY
+--------------------------------------------------------------------------------
+
+ ☐  TIP 7 — Avoid Using Public Wi-Fi for Sensitive Activities
+    Public Wi-Fi networks in cafes, malls, bus stands, and railway stations
+    are frequently unsecured and can be monitored by attackers. Never access
+    your college portal, internet banking, UPI apps, or email accounts on
+    public Wi-Fi. If necessary, use your mobile data or a trusted VPN service
+    for any sensitive activity.
+
+ ☐  TIP 8 — Keep Your Devices, Apps, and Antivirus Software Updated
+    Cybercriminals exploit known vulnerabilities in outdated software to
+    install malware and ransomware on devices. Always keep your phone and
+    laptop operating systems, applications, and antivirus software up to date.
+    Enable automatic updates wherever possible. Do not download apps or
+    software from unofficial or unverified sources.
+
+--------------------------------------------------------------------------------
+ SECTION 5 — SOCIAL MEDIA & DIGITAL IDENTITY PROTECTION
+--------------------------------------------------------------------------------
+
+ ☐  TIP 9 — Protect Your Personal Information on Social Media
+    Do not publicly display your phone number, home address, date of birth,
+    or Aadhaar/PAN details on any social media platform. Cybercriminals use
+    this information for identity theft — fraudulently applying for loans,
+    SIM swaps, or government schemes in your name. Review your privacy
+    settings on Instagram, Facebook, and Snapchat regularly.
+
+ ☐  TIP 10 — Be Cautious of Fake Job, Scholarship, and Lottery Offers
+    College students are frequently targeted with fake internship offers,
+    scholarship notifications, and prize claims via WhatsApp, Telegram, and
+    email. These messages typically ask you to pay a "registration fee" or
+    "processing charge" to claim the offer. Legitimate scholarships and
+    internships never require upfront payments. Always verify through the
+    official company or institution website before responding.
+
+================================================================================
+                    QUICK REFERENCE CHECKLIST TABLE
+================================================================================
+
+  #  | Category              | Prevention Tip                        | Done?
+ ----|-----------------------|---------------------------------------|-------
+  1  | Password Security     | Use strong, unique passwords + manager|  ☐
+  2  | Account Security      | Enable 2FA on all accounts            |  ☐
+  3  | 💳 UPI Safety         | Never share UPI PIN or OTP            |  ☐
+  4  | 💳 UPI Safety         | Verify before accepting collect requests|  ☐
+  5  | Phishing Awareness    | Do not click suspicious links         |  ☐
+  6  | Phishing Awareness    | Verify HTTPS before entering data     |  ☐
+  7  | Network Safety        | Avoid public Wi-Fi for sensitive use  |  ☐
+  8  | Device Safety         | Keep devices and apps updated         |  ☐
+  9  | Identity Protection   | Limit personal info on social media   |  ☐
+ 10  | Fraud Awareness       | Verify job/scholarship offers         |  ☐
+
+================================================================================
+                    🚨  REPORTING CHANNELS — INDIA
+================================================================================
+
+  If you or someone you know has been a victim of cybercrime, report
+  immediately through the following official channels:
+
+  🌐  National Cyber Crime Portal  :  https://cybercrime.gov.in
+      (File a complaint online — available 24x7)
+
+  📞  Cyber Crime Helpline         :  1930
+      (Call to report financial cyber fraud — available 24x7)
+
+  📋  Legal Reference              :  IT Act, 2000 & IT (Amendment) Act, 2008
+      (Governs all cybercrimes in India — penalties include imprisonment
+       and fines for offences such as hacking, fraud, and identity theft)
+
+  ⚠️  IMPORTANT: In case of UPI or online financial fraud, report to
+      Helpline 1930 IMMEDIATELY — the sooner you report, the higher the
+      chance of recovering your money before the transaction is settled.
+
+================================================================================
