@@ -1,0 +1,122 @@
+================================================================================
+              SOCIAL MEDIA DO'S AND DON'TS CHECKLIST
+         Responsible Social Media Use for College Students
+--------------------------------------------------------------------------------
+  Name : Avinash.C
+  Registration no. : 25BCY10032
+  Course  : CSE0001 — Digital Literacy
+  Task    : Task 4 — Part B
+  Institution : VIT Bhopal University
+================================================================================
+
+PURPOSE:
+This checklist serves as a practical guide for college students to maintain
+a responsible, professional, and safe presence across social media platforms.
+
+================================================================================
+                          ✅  DO'S
+================================================================================
+
+ ✅ DO 1 — Keep Your Profile Professional
+    Maintain a clean, professional profile across all platforms. Use a clear
+    profile photo, a real name, and an appropriate bio. Recruiters and faculty
+    often review student profiles — first impressions matter.
+
+ ✅ DO 2 — Think Before You Post
+    Always pause and ask yourself: "Would I be comfortable if my professor,
+    parent, or future employer saw this?" If the answer is no, do not post it.
+    Once something is online, it is nearly impossible to fully erase.
+
+ ✅ DO 3 — Use Privacy Settings Wisely
+    Regularly review and update your privacy settings on all platforms
+    (Instagram, Facebook, Snapchat, etc.). Limit personal information — such
+    as your location, phone number, and daily routine — to trusted connections
+    only.
+
+ ✅ DO 4 — Engage Respectfully and Constructively
+    When participating in discussions, debates, or comment sections, keep your
+    language respectful and your arguments factual. Constructive engagement
+    builds your reputation as a thoughtful and mature individual.
+
+ ✅ DO 5 — Verify Information Before Sharing
+    Always check the credibility of news, images, or claims before sharing
+    them. Spreading misinformation — even unintentionally — can damage your
+    credibility and contribute to public harm.
+
+ ✅ DO 6 — Use Social Media for Learning and Networking
+    Follow industry leaders, academic pages, and professional communities
+    relevant to your field. Platforms like LinkedIn and Twitter/X can be
+    powerful tools for career growth when used intentionally.
+
+ ✅ DO 7 — Report Harmful or Abusive Content
+    If you encounter cyberbullying, harassment, hate speech, or illegal
+    content, use the platform's reporting tools. You can also report
+    cybercrimes at cybercrime.gov.in or call Helpline 1930.
+
+================================================================================
+                          ❌  DON'TS
+================================================================================
+
+ ❌ DON'T 1 — Do Not Share Personal or Sensitive Information Publicly
+    Never post your home address, phone number, Aadhaar details, bank
+    information, or daily schedule on any public platform. This information
+    can be exploited for identity theft, fraud, or physical harm.
+
+ ❌ DON'T 2 — Do Not Engage in or Tolerate Cyberbullying
+    Never post, share, or like content that mocks, harasses, or demeans
+    another individual. Cyberbullying has serious psychological consequences
+    for victims and legal consequences for perpetrators under the IT Act, 2000.
+
+ ❌ DON'T 3 — Do Not Post Impulsively During Emotional Moments
+    Avoid posting when you are angry, upset, or under the influence. Emotional
+    posts are often regretted and can permanently affect your academic and
+    professional reputation.
+
+ ❌ DON'T 4 — Do Not Accept Requests from Unknown Individuals
+    Do not connect with, follow back, or engage privately with strangers on
+    any platform. Fake profiles are commonly used for scams, phishing, and
+    social engineering attacks targeting college students.
+
+ ❌ DON'T 5 — Do Not Share Exam Papers, Internal Marks, or College Notices
+    Circulating confidential academic content — such as question papers,
+    internal assessment marks, or official notices — without authorisation
+    is a violation of institutional policy and can lead to disciplinary action.
+
+ ❌ DON'T 6 — Do Not Click on Suspicious Links Shared via DMs or Posts
+    Phishing links are frequently distributed through social media direct
+    messages, even from accounts that appear to belong to friends. Always
+    verify the source before clicking any link.
+
+ ❌ DON'T 7 — Do Not Use Social Media During Academic Hours Irresponsibly
+    Excessive and unregulated social media use during lectures, labs, or
+    study time directly impacts academic performance. Set boundaries and use
+    screen-time management tools if needed.
+
+================================================================================
+                        QUICK REFERENCE TABLE
+================================================================================
+
+  #  |  ✅ DO                              |  ❌ DON'T
+ ----|-------------------------------------|------------------------------------
+  1  | Keep your profile professional      | Share personal/sensitive info
+  2  | Think before you post               | Engage in or tolerate cyberbullying
+  3  | Use privacy settings wisely         | Post impulsively during emotions
+  4  | Engage respectfully                 | Accept requests from strangers
+  5  | Verify before sharing               | Share confidential academic content
+  6  | Use it for learning & networking    | Click on suspicious links
+  7  | Report harmful content              | Use irresponsibly during study time
+
+================================================================================
+                        REPORTING & HELPLINES
+================================================================================
+
+  🔐 National Cyber Crime Portal : https://cybercrime.gov.in
+  📞 Cyber Crime Helpline         : 1930 (Available 24x7)
+  📋 IT Act, 2000                 : Governs cybercrimes in India
+
+================================================================================
+  File    : social-media-checklist.txt
+  Task    : CSE0001 — Task 4, Part B
+  Note    : This checklist is to be placed inside task-4-email-etiquette/
+            folder of your GitHub repository.
+================================================================================
